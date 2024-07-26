@@ -8,9 +8,9 @@ This project is a simple calculator application that features a message-like use
 - Clear and Reset Functionality: Ability to clear the current input and reset the calculator.
 - Responsive Design: Adapts to different screen sizes for a consistent user experience.
 # Technologies Used
-Frontend: Dart
-Backend: Dart
-Libraries:Math for evaluation
+- Frontend: Dart
+- Backend: Dart
+- Libraries:Math for evaluation
 
 
 A few resources to get you started if this is your first Flutter project:
