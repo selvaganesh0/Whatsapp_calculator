@@ -11,6 +11,11 @@ This project is a simple calculator application that features a message-like use
 - Backend: Dart
 - Libraries:Math for evaluation
 
+# Screen Shots
+![image](https://github.com/user-attachments/assets/17cf05c9-0d4f-4849-855d-4d58772977a1)
+
+![image](https://github.com/user-attachments/assets/2a862f36-ca87-4316-8dba-e6394d709413)
+
 
 A few resources to get you started if this is your first Flutter project:
 
