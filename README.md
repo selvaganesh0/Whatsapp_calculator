@@ -5,7 +5,6 @@ This project is a simple calculator application that features a message-like use
 # Features of calculator
 - Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division
 - Message-like UI: Results are displayed in a chat bubble style.
-- Clear and Reset Functionality: Ability to clear the current input and reset the calculator.
 - Responsive Design: Adapts to different screen sizes for a consistent user experience.
 # Technologies Used
 - Frontend: Dart
