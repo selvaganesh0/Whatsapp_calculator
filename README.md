@@ -1,10 +1,17 @@
-# calculator_whatsapp
+# calculator_message_like_ui
 
-A new Flutter project.
+This project is a simple calculator application that features a message-like user interface. It allows users to perform basic arithmetic operations (addition, subtraction, multiplication, division) and displays the results in a chat-style format.
 
-## Getting Started
+# Features of calculator
+- Basic Arithmetic Operations: Addition, Subtraction, Multiplication, Division
+- Message-like UI: Results are displayed in a chat bubble style.
+- Clear and Reset Functionality: Ability to clear the current input and reset the calculator.
+- Responsive Design: Adapts to different screen sizes for a consistent user experience.
+# Technologies Used
+Frontend: Dart
+Backend: Dart
+Libraries:Math for evaluation
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
