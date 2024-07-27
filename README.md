@@ -12,10 +12,13 @@ This project is a simple calculator application that features a message-like use
 - Libraries:Math for evaluation
 
 # Screen Shots
-![image](https://github.com/user-attachments/assets/17cf05c9-0d4f-4849-855d-4d58772977a1)
 
-![image](https://github.com/user-attachments/assets/2a862f36-ca87-4316-8dba-e6394d709413)
 
+![screen_3](https://github.com/user-attachments/assets/5f0e6133-e909-4507-8573-5303e302cd6d)
+
+![screen-4](https://github.com/user-attachments/assets/b71dc245-33ae-480b-9e60-f6f11ff7eb59)
+
+![screen_5](https://github.com/user-attachments/assets/0eed8f7d-782e-42f7-aa52-90aba17f1439)
 
 A few resources to get you started if this is your first Flutter project:
 
